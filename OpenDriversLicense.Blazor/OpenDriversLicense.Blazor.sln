@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenDriversLicense.Blazor", "OpenDriversLicense.Blazor.csproj", "{C665644C-C956-4A02-A3F8-E2B763BB166A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C665644C-C956-4A02-A3F8-E2B763BB166A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C665644C-C956-4A02-A3F8-E2B763BB166A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C665644C-C956-4A02-A3F8-E2B763BB166A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C665644C-C956-4A02-A3F8-E2B763BB166A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FBEB99A-4979-4A28-A0FC-715DE4BF069D}
+	EndGlobalSection
+EndGlobal

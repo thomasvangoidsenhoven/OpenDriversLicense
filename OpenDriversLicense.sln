@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenDriversLicense.Domain", "OpenDriversLicense.Domain\OpenDriversLicense.Domain.csproj", "{619A822C-912D-49A5-A999-2ADBF86A6B9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenDriversLicense.Blazor", "OpenDriversLicense.Blazor\OpenDriversLicense.Blazor.csproj", "{A6D1109A-01BF-49AF-81FD-BFCBCE0FB162}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{619A822C-912D-49A5-A999-2ADBF86A6B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{619A822C-912D-49A5-A999-2ADBF86A6B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{619A822C-912D-49A5-A999-2ADBF86A6B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D1109A-01BF-49AF-81FD-BFCBCE0FB162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D1109A-01BF-49AF-81FD-BFCBCE0FB162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D1109A-01BF-49AF-81FD-BFCBCE0FB162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D1109A-01BF-49AF-81FD-BFCBCE0FB162}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
